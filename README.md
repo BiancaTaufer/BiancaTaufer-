@@ -1,4 +1,4 @@
-# Olá eu sou a BiancaTaufer 
+## Olá eu sou a BiancaTaufer 
 🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, em transição da área da saúde para o universo da tecnologia.
 
 💡 Tenho paixão por inovação, resolução de problemas e criação de soluções digitais que possam gerar impacto positivo na vida das pessoas.
